@@ -79,9 +79,7 @@ foods = {
         {"name": "Pasta Bolognese", "tags": ["Gluten"], "p": 35, "kcal": 750},
         {"name": "Omelette mit Gemüse", "tags": [], "p": 35, "kcal": 480},
         {"name": "Wrap mit Hähnchen", "tags": ["Gluten"], "p": 40, "kcal": 600},
-        {"namimport streamlit as st
-import random
-import pandas as pde": "Protein Pancakes", "tags": ["Gluten", "Laktose"], "p": 30, "kcal": 520},
+        {"name": "Protein Pancakes", "tags": ["Gluten", "Laktose"], "p": 30, "kcal": 520},
         {"name": "Nüsse", "tags": ["Nüsse"], "p": 6, "kcal": 180},
         {"name": "Apfel", "tags": [], "p": 0, "kcal": 95},
         {"name": "Proteinriegel", "tags": ["Laktose"], "p": 20, "kcal": 250}
